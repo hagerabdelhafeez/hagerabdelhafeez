@@ -24,6 +24,12 @@ I'm a passionate **PHP/Laravel Backend Developer** with a focus on building robu
 ![Livewire](https://img.shields.io/badge/Livewire-ff2d20?logo=laravel&logoColor=white)
 
 
+## 🏆 Achievements & Activity
+
+<div align="center">
+  <!-- GitHub Profile Trophy: Celebrates your milestones -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hagerabdelhafeez&theme=gruvbox&margin-w=20" alt="GitHub Profile Trophy" />
+</div>
 
 
 ## 📫 Contact Me
