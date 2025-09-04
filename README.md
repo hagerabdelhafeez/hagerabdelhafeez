@@ -6,6 +6,7 @@ I'm a passionate **PHP/Laravel Backend Developer** with a focus on building robu
 ### 📈 About Me
 - 🔎 Dedicated to continuous learning and exploring new technologies.
 - 🧩 Passionate about writing clean, efficient code and following best practices.
+- 🤝 Open to collaboration, code reviews, and contributing to impactful projects.
 
 
 ## 🛠️ Tech Stack
@@ -28,7 +29,21 @@ I'm a passionate **PHP/Laravel Backend Developer** with a focus on building robu
 
 <div align="center">
   <!-- GitHub Profile Trophy: Celebrates your milestones -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hagerabdelhafeez&theme=gruvbox&margin-w=20" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hagerabdelhafeez&theme=radical" alt="GitHub Profile Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hagerabdelhafeez&theme=radical" alt="Hager Abdelhafeez's GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- GitHub Stats: Shows your coding activity and engagement -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hagerabdelhafeez&show_icons=true&theme=radical" alt="Hager Abdelhafeez's GitHub Stats" />
+</div>
+
+<div align="center">
+  <!-- Top Languages: Highlights your most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerabdelhafeez&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
