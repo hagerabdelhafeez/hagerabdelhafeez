@@ -32,14 +32,23 @@ I'm a passionate **PHP/Laravel Backend Developer** with a focus on building robu
   <img src="https://github-profile-trophy.vercel.app/?username=hagerabdelhafeez&theme=radical" alt="GitHub Profile Trophy" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hagerabdelhafeez&theme=radical" alt="Hager Abdelhafeez's GitHub Streak" />
-</div>
+<br/>
 
 <div align="center">
-  <!-- GitHub Stats: Shows your coding activity and engagement -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hagerabdelhafeez&show_icons=true&theme=radical" alt="Hager Abdelhafeez's GitHub Stats" />
+  <!-- GitHub Streak Stats and GitHub Stats side by side -->
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hagerabdelhafeez&theme=radical" alt="Hager Abdelhafeez's GitHub Streak"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hagerabdelhafeez&show_icons=true&theme=radical" alt="Hager Abdelhafeez's GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/>
 
 <div align="center">
   <!-- Top Languages: Highlights your most used languages -->
