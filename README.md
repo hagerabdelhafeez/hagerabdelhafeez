@@ -60,6 +60,7 @@ I'm a passionate **PHP/Laravel Backend Developer** with a focus on building robu
 
 [![Email](https://img.shields.io/badge/Email-hager.abdo121@hotmail.com-blue?logo=gmail&logoColor=white)](mailto:hager.abdo121@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hagerabdelhafeez-181717?logo=github)](https://github.com/hagerabdelhafeez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hager%20Abdelhafeez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hager-almahdi)
 
 
 
